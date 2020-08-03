@@ -7,7 +7,7 @@
 1. Import build.gradle file with IntelliJ IDEA
 
 2. Edit build.gradle and mod.json to suit your needs.
-    * The "mixins" object can be removed from mod.json if you do not need to use mixins.
+    * The "me.roridev.learnFabric.mixins" object can be removed from mod.json if you do not need to use me.roridev.learnFabric.mixins.
     * Please replace all occurences of "modid" with your own mod ID - sometimes, a different string may also suffice.
 3. Run!
 
